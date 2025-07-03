@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         卫星地图
+// @name         卫星地图（设置界面快捷键为D）
 // @namespace    https://github.com/Shuai-Bi-7365/3493078037957365
 // @version      1.3
 // @description  超级牛逼无敌豪华至尊pro plus max版
